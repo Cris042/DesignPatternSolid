@@ -24,8 +24,7 @@
 
 ## Inicializar Node
 
-1. Run `cd api`.<br />
-2. Run `yarn dev`.<br />
+1. Run `yarn dev`.<br />
 
 ## Inicializar banco de dados
 
