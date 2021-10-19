@@ -20,8 +20,12 @@
 ## Inicializar projeto
 
 1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn dev`. <br />
-3. Run `redis-server`. <br />
+2. Run `redis-server`. <br />
+
+## Inicializar Node
+
+1. Run `cd api`.<br />
+2. Run `yarn dev`.<br />
 
 ## Inicializar banco de dados
 
