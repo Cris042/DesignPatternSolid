@@ -6,7 +6,7 @@
 ## Tecnologias 🚀 
 
 - [x] Expo
-- [x] React Native
+- [x] node
 - [x] redis
 - [x] TypeScript
 
