@@ -9,6 +9,7 @@
 - [x] node
 - [x] redis
 - [x] TypeScript
+- [x] Design Pattern Solid
 
 ## Depedencias globais necessarias 💻
 
